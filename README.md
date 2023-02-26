@@ -18,7 +18,7 @@ pip install tqdm
 
 #### STEP 1: construct OOD samples
 ```bash
-# using pretrained wide-resnet trained with CIFAR10 
+# using WideResNet trained with CIFAR10 
 python generate_ood_data.py --dataset cifar10 --method layercam
 ```
 
