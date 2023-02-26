@@ -1,4 +1,4 @@
-# KIRBY ![kirby.png](https://github.com/vuno/KIRBY/imgs/kirby_icon.png)
+# KIRBY ![kirby.png](https://github.com/vuno/KIRBY/blob/master/imgs/kirby_icon.png)
 An offitial implementation for "**Key Feature Replacement of In-Distribution Samples for out-of-Distribution Detection (AAAI 2023)**".
 
 Authors: Jaeyoung Kim, Seo Taek Kong, Dongbin Na, Kyu-Hwan Jung
